@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83108254988",
+    "project_id": "lab11-cf4f6",
+    "storage_bucket": "lab11-cf4f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83108254988:android:b0e8b07e2e751640282529",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2p-IVdF2nalptDUZfbKwRg9WOxdEdgzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
